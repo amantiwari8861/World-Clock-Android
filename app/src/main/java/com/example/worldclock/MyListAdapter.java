@@ -1,5 +1,6 @@
 package com.example.worldclock;
 
+import android.graphics.Color;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -54,6 +55,7 @@ public class MyListAdapter extends RecyclerView.Adapter<MyListAdapter.ViewHolder
             super(itemView);
             this.imageView = (ImageView) itemView.findViewById(R.id.imageView);
             this.textView = (TextView) itemView.findViewById(R.id.textView);
+            this.textView.setTextColor(Color.parseColor("#ffffff"));
             relativeLayout = (RelativeLayout)itemView.findViewById(R.id.relativeLayout);
         }
     }
