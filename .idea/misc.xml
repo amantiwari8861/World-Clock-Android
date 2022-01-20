@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/WorldClock/app/src/main/res/layout/activity_recycle_the_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/WorldClock/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/WorldClock/app/src/main/res/layout/activity_recycle_the_view.xml" value="0.1" />
       </map>
     </option>
   </component>
